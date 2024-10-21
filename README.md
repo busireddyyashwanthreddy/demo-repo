@@ -1,5 +1,4 @@
 ## demo
-This is a demo repository
-add lines
-lines for
+This is a demo repository.
+
 repos
